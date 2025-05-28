@@ -1,0 +1,12 @@
+Subject: Account Suspended – Immediate Action Required  
+From: security-update@paypal-alert.com  
+
+Dear Customer,  
+We noticed unusual activity in your PayPal account.  
+Click the link below to restore access:  
+http://paypal-security-alert-login.com  
+
+Failure to respond in 24 hours will lead to account suspension.  
+
+Regards,  
+PayPal Support Team

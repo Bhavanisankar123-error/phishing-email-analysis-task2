@@ -1,0 +1,8 @@
+| What to Check             | How to Check                                                                                        | What We Find                                |
+| ------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| 🧑‍💻 Sender’s Email      | Look at "From: [security-update@paypal-alert.com](mailto:security-update@paypal-alert.com)"         | It looks like PayPal but it’s a fake domain |
+| 🔗 Link                   | Look at the URL: "[http://paypal-security-alert-login.com](http://paypal-security-alert-login.com)" | It’s not PayPal! It’s fake and suspicious   |
+| ⏰ Urgent Language         | "Immediate Action Required" and "account suspension"                                                | Tries to scare or rush you                  |
+| ❌ Personal Greeting       | It says "Dear Customer" instead of your real name                                                   | That’s suspicious                           |
+| 📝 Spelling or Grammar    | Read the message – check for odd wording                                                            | Slightly robotic tone, not professional     |
+| 📄 Attachments (optional) | This sample doesn’t have any attachments                                                            | (Safe for now)                              |
